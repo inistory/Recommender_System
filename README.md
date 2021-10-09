@@ -5,7 +5,7 @@
 |   | Content | Note |                    Link                    |
 |---|------|---------------| ----------------------------|
 | 1 | 연관분석, Apriori, FP-Growth | [code](Apriori.ipynb) | https://www.youtube.com/watch?v=43gb7WK56Sk |
-| 2 | Introduction & Neighborhood-Based Collaborative Filtering | [Recommender Systems: The Textbook]http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf                 |             |
+| 2 | Introduction & Neighborhood-Based Collaborative Filtering | [Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)                |             |
 | 3 | Neighborhood-Based Collaborative Filtering   |                                             |                        |
 
 
