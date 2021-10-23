@@ -52,7 +52,7 @@
         -   Hybrid
         -   Evaluation
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDEzNDA1MSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzkzNjY0ODksMTI1NDEzNDA1MSw3Mz
+A5OTgxMTZdfQ==
 -->
