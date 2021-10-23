@@ -12,5 +12,8 @@
 ### Paper review
 |   | Name | Note |                    Link                    |
 |---|------|---------------| ----------------------------|
-| 1 |  Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions |[note]   | http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf |
+| 1 |  Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions |[note](01-Surveys.md)  | http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf |
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgzMDc1NTU2MV19
+-->
