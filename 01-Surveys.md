@@ -1,4 +1,6 @@
 
+# Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions
+
 -   추천시스템 기본
     
     -   content based filtering
@@ -53,6 +55,6 @@
         -   Evaluation
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkzNjY0ODksMTI1NDEzNDA1MSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDc4NjQ1NzM5LDEyNTQxMzQwNTEsNzMwOT
+k4MTE2XX0=
 -->
