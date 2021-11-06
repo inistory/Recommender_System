@@ -1,6 +1,6 @@
 
 
-# Chapter 2
+# Chapter 2 : NEIGHBORHOOD-BASED COLLABORATIVE FILTERING
 
 ##  2.3.4 Comparing User-Based and Item-Based Methods
 
@@ -349,12 +349,9 @@ S = PΔPT (2.16)
 wuser의 다른 값은 vu에 필요하지 않습니다.
 식 2.22의 예측 함수이므로 학습할 필요가 없습니다.
 - 이는 회귀 계수의 수를 줄이는 유익한 효과가 있습니다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDU2MzEzMywzNDE4NDQwMjQsLTMxMT
-Q5NzYzOSwxMjQ2MTMyMDU4LC0xNjA3MzU5NjY0LDE0ODU5OTA4
-NzYsNzMwOTk4MTE2XX0=
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDI3OTEyNywtMTQ2ODA2Mzg2NSwtMz
-cxMzgyMjA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc2NzI0NjE0OCwtMjY1MTU0NjcsLTQwND
+I3OTEyNywtMTQ2ODA2Mzg2NSwtMzcxMzgyMjA1LDczMDk5ODEx
+Nl19
 -->
