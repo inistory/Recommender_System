@@ -124,12 +124,14 @@
 
 **Quiz**
 1. 의사결정나무를 CF로 확장할 때의 가장 큰 문제점?
-: 예측 항목과 관찰 항목이 특성 및 클래스 변수로 열 방식으로 명확하게 분리되지 않는다는 것
+-  예측 항목과 관찰 항목이 특성 및 클래스 변수로 열 방식으로 명확하게 분리되지 않는다는 것
 2. rating matrix의 sparsity를 해결한 방법?
-: 차원축소 방식을 사용해서 데이터를 저차원으로 만드는 것
-: Rating을 매기지 않은 사용자들은 어떻게 분류되는지(두개 다에 분류해줌(?))
+- 차원축소 방식을 사용해서 데이터를 저차원으로 만드는 것
+- Rating을 매기지 않은 사용자들은 어떻게 분류되는지(두개 다에 분류해줌(?))
 3. CF에서는 종속변수와 독립변수가 명확하게 구분되지 않음. 그래서 decision tree에서 예측하고자 하는 것?
-: 각 속성을 종속으로 고정하여 별도의 의사결정트리를 구성, 유저에 대한 특정item등급을 예측, item에 대한 의사결정트리를 만든다
+- mxn: m은 사용자, n은 item
+- n을 종속으로 고정을 하고, 나머지를 독립으로 고정,의사결정의 수랑, 속성의 수 n이랑 동일한걸 보면 item의 등급을 예측하고자 한 것 같다.
+-  각 속성을 종속으로 만들고, 나머지 속성은 독립적으로 바꿔서 별도로 의사결정트리를 구성해준다음, 유저에 대해서 특정item등급을 예측하면서, item에 대한 의사결정트리를 만든다.
 
 ## 3.3 Rule-Based Collaborative Filtering
 - 연관규칙 분석이라고 데이터 마이닝에서 부름
@@ -213,15 +215,16 @@
 
 **QUIZ**
 1. 추천시스템에서 평점이 어떻게 주어진 경우에 연관규칙분석 모델이 유용할까요?
-: 단항 데이터
-: 고객이 경험했으면 1, 아니면 표기안하는 unary(단항) rating
-: 페이스북 좋아요 예시, 좋아요 누르거나 안누르거나
+- 단항 데이터
+-  고객이 경험했으면 1, 아니면 표기안하는 unary(단항) rating
+-  페이스북 좋아요 예시, 좋아요 누르거나 안누르거나
 
 2. 이러한 평점을 썻을 때 단점은 뭐가 있을까요?
-: 단항등급 메트릭스, 좋아요를 누른거는 명확하게 좋아한다고 명시가 되지만, 안누른거는 싫어하는게 아니기 때문에 추천을 할 때 한계
+- 단항등급 메트릭스, 좋아요를 누른거는 명확하게 좋아한다고 명시가 되지만, 안누른거는 싫어하는게 아니기 때문에 추천을 할 때 한계
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2NzMwMTcyLC02MDk1MTYyNzgsMTQ5Nz
-kxOTI0OCwtNDY3NDQ2NDUyLC0yMDY2MTg0NjcwLC0xMzcwOTM1
-MTU0LDcwMjU0NjIyMyw0OTc3MDEyNzEsNzIyMzA5OTI5LDYyMz
-IxNjg2MywtMTY5NjQzNTI3MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTkzODIwMTQ3NiwtMTYxNzYxNTUxOCwtNj
+A5NTE2Mjc4LDE0OTc5MTkyNDgsLTQ2NzQ0NjQ1MiwtMjA2NjE4
+NDY3MCwtMTM3MDkzNTE1NCw3MDI1NDYyMjMsNDk3NzAxMjcxLD
+cyMjMwOTkyOSw2MjMyMTY4NjMsLTE2OTY0MzUyNzAsNzMwOTk4
+MTE2XX0=
 -->
