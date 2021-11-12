@@ -13,10 +13,12 @@
 |---|------|---------------| ----------------------------|
 | 1 |  Toward the next generation of recommender systems: a survey of the state-of-the-art and possible extensions |[note](papers/Toward%20the%20next%20generation%20of%20recommender%20systems:%20a%20survey%20of%20the%20state-of-the-art%20and%20possible%20extensions.md)  | http://pages.stern.nyu.edu/~atuzhili/pdf/TKDE-Paper-as-Printed.pdf |
 | 2 | Matrix factorization techniques for recommender systems |[note](papers/Matrix%20factorization%20techniques%20for%20recommender%20systems.md)  | https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf |
+| 3 | SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS |[note]()  | https://arxiv.org/pdf/1511.06939v4.pdf |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTk4MjgyLDE2ODA1MDMxMTUsNjQ5NT
-Y5NDg2LC0xMjU5NTMwODAwLDE2MTAyMzEzMDYsMTk4Njk0ODQ0
-NywtMTk4NjYxMzA0Nyw5MjU1MjExODksMTgzMDc1NTU2MV19
+eyJoaXN0b3J5IjpbNTI4NjQ1NjU2LDE1Nzk5ODI4MiwxNjgwNT
+AzMTE1LDY0OTU2OTQ4NiwtMTI1OTUzMDgwMCwxNjEwMjMxMzA2
+LDE5ODY5NDg0NDcsLTE5ODY2MTMwNDcsOTI1NTIxMTg5LDE4Mz
+A3NTU1NjFdfQ==
 -->
