@@ -1,0 +1,11 @@
+# AutoRec: Autoencoders Meet Collaborative Filtering
+
+## Abstract
+- 협업 필터링(CF)를 위한 auto encoder framework인 AutoRec 소개
+- Movielens 및 Netflix 데이터 세트에서 biased matrix factorization, RBMCF and LLORMA 들보다 성능이 좋음
+
+## Introduction
+- 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODY1OTM3NTc0LDczMDk5ODExNl19
+-->
