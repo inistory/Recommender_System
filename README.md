@@ -4,9 +4,10 @@
 
 |   | Content | Note |                    Link                    |
 |---|------|---------------| ----------------------------|
-| 1 | 연관분석, Apriori, FP-Growth | [note](/study/Apriori.ipynb) | https://www.youtube.com/watch?v=43gb7WK56Sk |
-| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter2.md)         |[Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
-| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter3.md)         |[Recommender Systems: The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
+| 1 | 연관분석, Apriori, FP-Growth | [note](/study/Apriori.ipynb) | [link](https://www.youtube.com/watch?v=43gb7WK56Sk) |
+| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter2.md) |[link](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
+| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter3.md)  |[link](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
+| 4 | Understanding Convolutions on Graphs | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter3.md) |[link](https://distill.pub/2021/understanding-gnns/)
 
 ### Paper review
 |   | Name | Note |                    Link                    |
@@ -18,10 +19,12 @@
 | 5 | Variational Autoencoders for Collaborative Filtering |[note](papers/Variational%20Autoencoders%20for%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/pdf/1802.05814.pdf) |
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTc4NDgwNCwtMTczNzQwOTQ1MSw5ND
-I4Njk1NiwxNzU5Njc4Mzk0LDE1NjI0MzE5NzQsNTI4NjQ1NjU2
-LDE1Nzk5ODI4MiwxNjgwNTAzMTE1LDY0OTU2OTQ4NiwtMTI1OT
-UzMDgwMCwxNjEwMjMxMzA2LDE5ODY5NDg0NDcsLTE5ODY2MTMw
-NDcsOTI1NTIxMTg5LDE4MzA3NTU1NjFdfQ==
+eyJoaXN0b3J5IjpbMTY0NDIwNDk2OCwtMjA3MDU0NDg0NSwxNz
+U1Nzg0ODA0LC0xNzM3NDA5NDUxLDk0Mjg2OTU2LDE3NTk2Nzgz
+OTQsMTU2MjQzMTk3NCw1Mjg2NDU2NTYsMTU3OTk4MjgyLDE2OD
+A1MDMxMTUsNjQ5NTY5NDg2LC0xMjU5NTMwODAwLDE2MTAyMzEz
+MDYsMTk4Njk0ODQ0NywtMTk4NjYxMzA0Nyw5MjU1MjExODksMT
+gzMDc1NTU2MV19
 -->
