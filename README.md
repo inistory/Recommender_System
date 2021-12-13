@@ -17,15 +17,15 @@
 | 3 | SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS |[note](papers/SESSION-BASED%20RECOMMENDATIONS%20WITH%20RECURRENT%20NEURAL%20NETWORKS.md)  | [link](https://arxiv.org/pdf/1511.06939v4.pdf) |
 | 4 | AutoRec: Autoencoders Meet Collaborative Filtering |[note](papers/AutoRec:%20Autoencoders%20Meet%20Collaborative%20Filtering.md)  | [link](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) |
 | 5 | Variational Autoencoders for Collaborative Filtering |[note](papers/Variational%20Autoencoders%20for%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/pdf/1802.05814.pdf) |
-| 6 | # Neural Graph Collaborative Filtering |[note](papers/Neural%20Graph%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/abs/1905.08108) |
+| 6 | Neural Graph Collaborative Filtering |[note](papers/Neural%20Graph%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/abs/1905.08108) |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjAxMTI5MywtMjA3MDU0NDg0NSwxNz
-U1Nzg0ODA0LC0xNzM3NDA5NDUxLDk0Mjg2OTU2LDE3NTk2Nzgz
-OTQsMTU2MjQzMTk3NCw1Mjg2NDU2NTYsMTU3OTk4MjgyLDE2OD
-A1MDMxMTUsNjQ5NTY5NDg2LC0xMjU5NTMwODAwLDE2MTAyMzEz
-MDYsMTk4Njk0ODQ0NywtMTk4NjYxMzA0Nyw5MjU1MjExODksMT
-gzMDc1NTU2MV19
+eyJoaXN0b3J5IjpbLTE3MzU3NTg1MDIsLTIwNzA1NDQ4NDUsMT
+c1NTc4NDgwNCwtMTczNzQwOTQ1MSw5NDI4Njk1NiwxNzU5Njc4
+Mzk0LDE1NjI0MzE5NzQsNTI4NjQ1NjU2LDE1Nzk5ODI4MiwxNj
+gwNTAzMTE1LDY0OTU2OTQ4NiwtMTI1OTUzMDgwMCwxNjEwMjMx
+MzA2LDE5ODY5NDg0NDcsLTE5ODY2MTMwNDcsOTI1NTIxMTg5LD
+E4MzA3NTU1NjFdfQ==
 -->
