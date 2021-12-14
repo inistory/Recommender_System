@@ -107,11 +107,11 @@ References
 
 ## 5. Coclusion
 - Embedding Propagation Layer 에서 Message Construction과 Message Aggregation과정을 통해 High-order connectivity 그래프를 만든 후, 아웃풋을 하나의 벡터로 표현하여 유저-아이템 선호도를 추정할 수 있는 방안을 제안
-- 유저와 가까이에 있는 아이템들이 유저와의 유사도가 높다는 가정하에 추천받을 수 있는 구조s
+- 유저와 가까이에 있는 아이템들이 유저와의 유사도가 높다는 가정하에 추천받을 수 있는 구조
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg0NjU0MzAsNTY4MzU4Mzk5LC05Nz
-k1MDI2NDEsLTM4MjUwMDE3NCwtOTkzMzAxODQ2LC0xMDU4ODMy
-NDM5LDQ1MDM0NjY4MywyNDMwNzcxNjUsLTE2MTQzNDAwMjQsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTk4MTQxNjMsNTY4MzU4Mzk5LC05Nzk1MD
+I2NDEsLTM4MjUwMDE3NCwtOTkzMzAxODQ2LC0xMDU4ODMyNDM5
+LDQ1MDM0NjY4MywyNDMwNzcxNjUsLTE2MTQzNDAwMjQsNzMwOT
+k4MTE2XX0=
 -->
