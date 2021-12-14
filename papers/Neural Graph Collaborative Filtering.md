@@ -72,9 +72,7 @@
 - 타겟 아이템에 대한 유저의 선호도를 추정
 - doc product 사용
 - 유저는 선호도가 가장 높은 아이템을 추천받게 됨
-References
-- https://arxiv.org/pdf/1905.08108.pdf
-- https://www.youtube.com/watch?v=ce0LrvVblCU
+
 
 ## 4. Experiments & Result
 ### [실험1]
@@ -109,9 +107,12 @@ References
 - Embedding Propagation Layer 에서 Message Construction과 Message Aggregation과정을 통해 High-order connectivity 그래프를 만든 후, 아웃풋을 하나의 벡터로 표현하여 유저-아이템 선호도를 추정할 수 있는 방안을 제안
 - 유저와 가까이에 있는 아이템들이 유저와의 유사도가 높다는 가정하에 추천받을 수 있는 구조
 
+## References
+- https://arxiv.org/pdf/1905.08108.pdf
+- https://www.youtube.com/watch?v=ce0LrvVblCU
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNDc5MDAsOTk4MTQxNjMsNTY4MzU4Mz
-k5LC05Nzk1MDI2NDEsLTM4MjUwMDE3NCwtOTkzMzAxODQ2LC0x
-MDU4ODMyNDM5LDQ1MDM0NjY4MywyNDMwNzcxNjUsLTE2MTQzND
-AwMjQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM1NDc0ODQwMiwzNDA0NzkwMCw5OTgxND
+E2Myw1NjgzNTgzOTksLTk3OTUwMjY0MSwtMzgyNTAwMTc0LC05
+OTMzMDE4NDYsLTEwNTg4MzI0MzksNDUwMzQ2NjgzLDI0MzA3Nz
+E2NSwtMTYxNDM0MDAyNCw3MzA5OTgxMTZdfQ==
 -->
