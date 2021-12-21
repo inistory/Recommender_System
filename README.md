@@ -18,14 +18,14 @@
 | 4 | AutoRec: Autoencoders Meet Collaborative Filtering |[note](papers/AutoRec:%20Autoencoders%20Meet%20Collaborative%20Filtering.md)  | [link](https://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf) |
 | 5 | Variational Autoencoders for Collaborative Filtering |[note](papers/Variational%20Autoencoders%20for%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/pdf/1802.05814.pdf) |
 | 6 | Neural Graph Collaborative Filtering |[note](papers/Neural%20Graph%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/abs/1905.08108) |
-| 7 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation |[note](papers/Toward%20the%20next%20generation%20of%20recommender%20systems:%20a%20survey%20of%20the%20state-of-the-art%20and%20possible%20extensions.md)  | [link](https://arxiv.org/pdf/2002.02126.pdf) |
+| 7 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation |[note](papers/LightGCN:%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.md)  | [link](https://arxiv.org/pdf/2002.02126.pdf) |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTAyMDQwNCwtMTczNTc1ODUwMiwtMj
-A3MDU0NDg0NSwxNzU1Nzg0ODA0LC0xNzM3NDA5NDUxLDk0Mjg2
-OTU2LDE3NTk2NzgzOTQsMTU2MjQzMTk3NCw1Mjg2NDU2NTYsMT
-U3OTk4MjgyLDE2ODA1MDMxMTUsNjQ5NTY5NDg2LC0xMjU5NTMw
-ODAwLDE2MTAyMzEzMDYsMTk4Njk0ODQ0NywtMTk4NjYxMzA0Ny
-w5MjU1MjExODksMTgzMDc1NTU2MV19
+eyJoaXN0b3J5IjpbLTE1NjU1MDUyNTIsLTE3MzU3NTg1MDIsLT
+IwNzA1NDQ4NDUsMTc1NTc4NDgwNCwtMTczNzQwOTQ1MSw5NDI4
+Njk1NiwxNzU5Njc4Mzk0LDE1NjI0MzE5NzQsNTI4NjQ1NjU2LD
+E1Nzk5ODI4MiwxNjgwNTAzMTE1LDY0OTU2OTQ4NiwtMTI1OTUz
+MDgwMCwxNjEwMjMxMzA2LDE5ODY5NDg0NDcsLTE5ODY2MTMwND
+csOTI1NTIxMTg5LDE4MzA3NTU1NjFdfQ==
 -->
