@@ -6,9 +6,9 @@
 
 |   | Content | Note |
 |---|------|---------------| 
-| 1 | Chapter 1 : An Introduction to Recommender Systems | [note](https://github.com/inistory/Recommender_System/blob/main/Recommender%20Systems%20:%20the%20textbook/Chapter1.md) |
-| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](https://github.com/inistory/Recommender_System/blob/main/Recommender%20Systems%20:%20the%20textbook/Chapter2.md) |
-| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](https://github.com/inistory/Recommender_System/blob/main/Recommender%20Systems%20:%20the%20textbook/Chapter3.md)  |
+| 1 | Chapter 1 : An Introduction to Recommender Systems | [note](Recommender%20Systems%20:%20the%20textbook/Chapter1.md) |
+| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](Recommender%20Systems%20:%20the%20textbook/Chapter2.md) |
+| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](Recommender%20Systems%20:%20the%20textbook/Chapter3.md)  |
 
 ### Paper review
 |   | Name | Note |                    Link                    |
