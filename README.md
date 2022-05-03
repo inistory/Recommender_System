@@ -1,13 +1,15 @@
 # Recommender_System
 
-### Study
+### Recommender System :  The Textbook
 
-|   | Content | Note |                    Link                    |
-|---|------|---------------| ----------------------------|
-| 1 | 연관분석, Apriori, FP-Growth | [note](/study/Apriori.ipynb) | [link](https://www.youtube.com/watch?v=43gb7WK56Sk) |
-| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter2.md) |[link](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
-| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter3.md)  |[link](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
-| 4 | Understanding Convolutions on Graphs | [note](study/Understanding%20Convolutions%20on%20Graphs.md) |[link](https://distill.pub/2021/understanding-gnns/)
+- [Recommender System :  The Textbook](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
+
+|   | Content | Note |
+|---|------|---------------| 
+| 1 | Chapter 1 : An Introduction to Recommender Systems | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter1.md) |
+| 2 | Chapter 2 : Neighborhood-based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter2.md) |
+| 3 | Chapter 3 : Model-Based Collaborative Filtering | [note](study/Recommender%20Systems%20:%20the%20textbook/Chapter3.md)  |
+| 4 | Understanding Convolutions on Graphs | [note](study/Understanding%20Convolutions%20on%20Graphs.md) |
 
 ### Paper review
 |   | Name | Note |                    Link                    |
@@ -20,12 +22,3 @@
 | 6 | Neural Graph Collaborative Filtering |[note](papers/Neural%20Graph%20Collaborative%20Filtering.md)  | [link](https://arxiv.org/abs/1905.08108) |
 | 7 | LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation |[note](papers/LightGCN:%20Simplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.md)  | [link](https://arxiv.org/pdf/2002.02126.pdf) |
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU1MDUyNTIsLTE3MzU3NTg1MDIsLT
-IwNzA1NDQ4NDUsMTc1NTc4NDgwNCwtMTczNzQwOTQ1MSw5NDI4
-Njk1NiwxNzU5Njc4Mzk0LDE1NjI0MzE5NzQsNTI4NjQ1NjU2LD
-E1Nzk5ODI4MiwxNjgwNTAzMTE1LDY0OTU2OTQ4NiwtMTI1OTUz
-MDgwMCwxNjEwMjMxMzA2LDE5ODY5NDg0NDcsLTE5ODY2MTMwND
-csOTI1NTIxMTg5LDE4MzA3NTU1NjFdfQ==
--->
